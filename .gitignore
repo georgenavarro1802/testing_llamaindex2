@@ -1,0 +1,24 @@
+.idea
+llamaindex2/.idea/
+/.idea/
+.idea/worspace.xml
+/.idea/*
+
+.vscode/
+storage/
+storage/*
+
+**/__pycache__/
+
+*.swp
+llamaindex2/__init__.pyc
+
+venv*/
+
+.env
+llamaindex2/.env
+
+settings.ini
+
+# MacOS
+.DS_Store
